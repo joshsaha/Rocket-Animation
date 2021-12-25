@@ -211,6 +211,6 @@ public class SJ_BlastOff
 
 
 
-	// Place your program here.  'c' is the output console
-    } // main method
-} // SJ_BlastOff class
+	
+    }
+}
