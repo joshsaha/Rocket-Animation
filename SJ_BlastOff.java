@@ -1,8 +1,3 @@
-/* The "SJ_BlastOff" class.
-Josh Saha
-November 23, 2018
-Rocket blasting off and then landing
-*/
 import java.awt.*;
 import java.awt.image.BufferedImage;
 import javax.swing.*;
